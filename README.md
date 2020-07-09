@@ -4,6 +4,6 @@
 * [Run, Boris Run! - Final Project](https://github.com/edmond-b/Covid_Game)
 * [Acebook Challenge - Facebook Clone](https://github.com/cmb84scd/acebook-HoneyBunnies)
 
-## Personal Projects
+## Personal Projects
 * [Etch-a-Sketch](https://garethwoodman.github.io/ETCH-A-SKETCH/)
 * [Bowling Challenge](https://garethwoodman.github.io/bowling-challenge/)
